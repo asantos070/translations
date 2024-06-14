@@ -12,295 +12,295 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
-	<data name="TAB_DEVICES">
+	<data name="GUIA_EQUIPAMENTOS">
 		<value>Devices</value>
 	</data>
-	<data name="TAB_MANAGE">
+	<data name="GUIA_GESTÃO">
 		<value>Manage</value>
 	</data>
-	<data name="TAB_APIARIES">
+	<data name="GUIA_MELIPONÁRIOS">
 		<value>Apiaries</value>
 	</data>
-	<data name="TAB_HIVES">
+	<data name="GUIA_HIVES">
 		<value>Hives</value>
 	</data>
-	<data name="TAB_SETTINGS">
+	<data name="GUIA_CONFIGURAÇÕES">
 		<value>User Settings</value>
 	</data>
-	<data name="TAB_NOTIFICATIONS">
+	<data name="GUIA_NOTIFICAÇÕES">
 		<value>Notifications</value>
 	</data>
-	<data name="COMMON_APIARY">
+	<data name="COMUM_MELIPONÁRIO">
 		<value>Apiary</value>
 	</data>
-	<data name="COMMON_HIVE">
+	<data name="COMUM_COLMÉIA">
 		<value>Hive</value>
 	</data>
-	<data name="COMMON_DEVICE">
+	<data name="COMUM_EQUIPAMENTO">
 		<value>Device</value>
 	</data>
-	<data name="COMMON_HUB">
+	<data name="COMUM_HUB">
 		<value>Hub</value>
 	</data>
-	<data name="COMMON_SUBHUB">
+	<data name="COMUM_SUBHUB">
 		<value>SubHub</value>
 	</data>
-	<data name="COMMON_CANCEL">
+	<data name="COMUM_CANCELAR">
 		<value>Cancel</value>
 	</data>
-	<data name="COMMON_OK">
+	<data name="COMUM_OK">
 		<value>Ok</value>
 	</data>
-	<data name="COMMON_SAVE">
+	<data name="COMUM_SALVE">
 		<value>Save</value>
 	</data>
-	<data name="COMMON_BACK">
+	<data name="COMUM_VOLTE">
 		<value>Back</value>
 	</data>
-	<data name="COMMON_ERROR">
+	<data name="COMUM_ERRO">
 		<value>Error</value>
 	</data>
-	<data name="COMMON_LOADING">
+	<data name="COMMUM_CARREGANDO">
 		<value>Loading</value>
 	</data>
-	<data name="COMMON_TEMPERATURE">
+	<data name="COMUM_TEMPERATURA">
 		<value>Temperature</value>
 	</data>
-	<data name="COMMON_HUMIDITY">
+	<data name="COMUM_UMIDADE">
 		<value>Humidity</value>
 	</data>
-	<data name="COMMON_WEIGHT">
+	<data name="COMUM_PESO">
 		<value>Weight</value>
 	</data>
-	<data name="COMMON_BATTERY">
+	<data name="COMUM_BATERIA">
 		<value>Battery</value>
 	</data>
-	<data name="COMMON_ALL">
+	<data name="COMUM_TUDO">
 		<value>All</value>
 	</data>
-	<data name="COMMON_AUDIO">
+	<data name="COMUM_AUDIO">
 		<value>Audio</value>
 	</data>
-	<data name="COMMON_RADAR">
+	<data name="COMUM_RADAR">
 		<value>Radar</value>
 	</data>
-	<data name="COMMON_MODEL">
+	<data name="COMUM_MODELO">
 		<value>Model</value>
 	</data>
-	<data name="COMMON_WORKINGOFFLINE">
+	<data name="COMUM_OFFLINE">
 		<value>Working Offline</value>
 	</data>
-	<data name="COMMON_COPIED">
+	<data name="COMUM_COPIADO">
 		<value>Copied to Clipboard</value>
 	</data>
-	<data name="SETTINGS_ACCOUNT">
+	<data name="CONFIGURAÇÕES_CONTA">
 		<value>Account</value>
 	</data>
-	<data name="SETTINGS_USER">
+	<data name="CONFIGURAÇÕES_USUÁRIO">
 		<value>User</value>
 	</data>
-	<data name="SETTINGS_PREFERENCES">
+	<data name="CONFIGURAÇÕES_PREFERÊNCIAS">
 		<value>Preferences</value>
 	</data>
-	<data name="SETTINGS_TIMEZONE">
+	<data name="CONFIGURAÇÕES_FUSOHORÁRIO">
 		<value>Timezone</value>
 	</data>
-	<data name="SETTINGS_UNIT">
+	<data name="CONFIGURAÇÕES_UNIDADE">
 		<value>Unit</value>
 	</data>
-	<data name="SETTINGS_LANGUAGE">
+	<data name="CONFIGURAÇÕES_LINGUAGEM">
 		<value>Language</value>
 	</data>
-	<data name="SETTINGS_APP">
+	<data name="CONFIGURAÇÕES_APP">
 		<value>App Settings</value>
 	</data>
-	<data name="SETTINGS_BATTERYSAVER">
+	<data name="CONFIGURAÇÕES_ECONOMIADEBATERIA">
 		<value>Enable/Disable Battery Saver</value>
 	</data>
-	<data name="SETTINGS_SHOWFIRMWARE">
+	<data name="CONFIGURAÇÕES_MOSTREFIRMWARE">
 		<value>Show available firmware updates</value>
 	</data>
-	<data name="SETTINGS_SUBHUBCSV">
+	<data name="CONFIGURAÇÕES_SUBHUBCSV">
 		<value>Save CSV on SubHub sync</value>
 	</data>
-	<data name="SETTINGS_LOGIN">
+	<data name="CONFIGURAÇÕES_LOGIN">
 		<value>Log In</value>
 	</data>
-	<data name="SETTINGS_EDITPREF">
+	<data name="CONFIGURAÇÕES_EDITEPREFERÊNCIAS">
 		<value>Edit Preferences</value>
 	</data>
-	<data name="SETTINGS_LOGOUT">
+	<data name="CONFIGURAÇÕES_LOGOUT">
 		<value>Log Out</value>
 	</data>
-	<data name="SETTINGS_TROUBLESHOOTING">
+	<data name="CONFIGURAÇÕES_SOLUÇÃODEPROBLEMAS">
 		<value>Troubleshooting</value>
 	</data>
-	<data name="SETTINGS_LOGOUT_TITLE">
+	<data name="CONFIGURAÇÕES_LOGOUT_TÍTULO">
 		<value>Logging out</value>
 	</data>
-	<data name="SETTINGS_LOGOUT_KEEP">
+	<data name="CONFIGURAÇÕES_LOGOUT_MANTENHA">
 		<value>Keep all devices</value>
 	</data>
-	<data name="SETTINGS_LOGOUT_REMOVEALL">
+	<data name="CONFIGURAÇÕES_LOGOUT_REMOVATUDO">
 		<value>Remove all devices</value>
 	</data>
-	<data name="SETTINGS_LOGOUT_REMOVEACCOUNT">
+	<data name="CONFIGURAÇÕES_LOGOUT_REMOVACONTA">
 		<value>Remove devices on account {0}</value>
 	</data>
-	<data name="SETTINGS_NOACCOUNT">
+	<data name="CONFIGURAÇÕES_SEMCONTA">
 		<value>no account attached</value>
 	</data>
-	<data name="SETTINGS_EDITPREF_TITLE">
+	<data name="CONFIGURAÇÕES_EDITEPREFERÊNCIAS_TÍTULO">
 		<value>Edit Preferences</value>
 	</data>
-	<data name="SETTINGS_EDITPREF_METRIC">
+	<data name="CONFIGURAÇÕES_EDITEPREFERÊNCIAS_METRICA">
 		<value>Metric (Celsius/Kilograms)</value>
 	</data>
-	<data name="SETTINGS_EDITPREF_IMPERIAL">
+	<data name="CONFIGURAÇÕES_EDITEPREFERÊNCIAS_IMPERIAL">
 		<value>Imperial (Fahrenheit/Pounds)</value>
 	</data>
-	<data name="SETTINGS_EDITPREF_TIMEZONE">
+	<data name="CONFIGURAÇÕES_EDITEPREFERÊNCIAS_FUSOHORÁRIO">
 		<value>Select Timezone</value>
 	</data>
-	<data name="SETTINGS_EDITPREF_UNITS">
+	<data name="CONFIGURAÇÕES_EDITEPREFERÊNCIAS_UNIDADES">
 		<value>Select Units</value>
 	</data>
-	<data name="SETTINGS_EDITPREF_LANGUAGE">
+	<data name="CONFIGURAÇÕES_EDITEPREFERÊNCIAS_LINGUAGEM">
 		<value>Select Language</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_TITLE">
+	<data name="CONFIGURAÇÕES_AVANÇADO_TÍTULO">
 		<value>Advanced</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_REMOVEDEVICES">
+	<data name="CONFIGURAÇÕES_AVANÇADO_REMOVAEQUIPAMENTOS">
 		<value>Remove devices not on my account</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_DELETEDB">
+	<data name="CONFIGURAÇÕES_AVANÇADO_APAGADO">
 		<value>Delete Database</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_DOWNLOADLOG">
+	<data name="CONFIGURAÇÕES_AVANÇADO_DOWNLOADLOG">
 		<value>Download Debug Log</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_TURNOFFFULLDBL">
+	<data name="CONFIGURAÇÕES_AVANÇADO_DESLIGUETOTALMENTEDBL">
 		<value>Turn off full debug logging</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_REMOVEDEVICES_MESSAGE">
+	<data name="CONFIGURAÇÕES_AVANÇADO_REMOVAEQUIPAMENTOS_MENSAGEM">
 		<value>Remove devices not belonging to MyBroodMinder account {0}?</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_REMOVEDEVICES_TITLE">
+	<data name="CONFIGURAÇÕES_AVANÇADO_REMOVAEQUPAMENTOS_TÍTULO">
 		<value>Remove Devices</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_REMOVEDEVICES_CONFIRM">
+	<data name="CONFIGURAÇÕES_AVANÇADO_REMOVAEQUIPAMENTOS_CONFIRME">
 		<value>Yes, Remove Devices</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_DELETEDB_MESSAGE">
+	<data name="CONFIGURAÇÕES_AVANÇADO_APAGUE_MENSAGEM">
 		<value>Are you sure you want to delete all local data?</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_DELETEDB_TITLE">
+	<data name="CONFIGURAÇÕES_AVANÇADO_APAGUE_TÍTULO">
 		<value>Delete Data</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_DELETEDB_CONFIRM">
+	<data name="CONFIGURAÇÕES_AVANÇADO_APAGUE_CONFIRME">
 		<value>Yes, Delete Data</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_DOWNLOADLOG_COMPLETE">
+	<data name="CONFIGURAÇÃO_AVANÇADA_DOWNLOADLOG_COMPLETO">
 		<value>Downloaded Debug Log</value>
 	</data>
-	<data name="SETTINGS_ADVANCED_DOWNLOADLOG_ERROR">
+	<data name="CONFIGURAÇÃO_AVANÇADO_DOWNLOADLOG_ERRO">
 		<value>Error Downloading Debug Log</value>
 	</data>
-	<data name="APIARIES_SELECT">
+	<data name="MELIPONÁRIO_SELECIONE">
 		<value>Select Apiary</value>
 	</data>
-	<data name="APIARIES_NONE">
+	<data name="MELIPONÁRIO_NENHUM">
 		<value>No Apiary Selected</value>
 	</data>
-	<data name="APIARIES_TAP1">
+	<data name="MELIPONÁRIO_GUIA1">
 		<value>Tap</value>
 	</data>
-	<data name="APIARIES_TAP2">
+	<data name="MELIPONÁRIO_GUIA2">
 		<value>above to select an apiary</value>
 	</data>
-	<data name="APIARIES_NOHIVES">
+	<data name="MELIPONÁRIO_SEMCOLMÉIAS">
 		<value>No Hives Found</value>
 	</data>
-	<data name="APIARIES_TAPH1">
+	<data name="MELIPONÁRIO_GUIAH1">
 		<value>Tap</value>
 	</data>
-	<data name="APIARIES_TAPH2">
+	<data name="MELIPONÁRIO_GUIAH2">
 		<value>on top right to create a hive</value>
 	</data>
-	<data name="APIARIES_NODEVICES">
+	<data name="MELIPONÁRIO_SEMEQUIPAMENTOS">
 		<value>No Devices</value>
 	</data>
-	<data name="APIARIES_FILTERSENSOR">
+	<data name="MELIPONÁRIO_FILTROSENSOR">
 		<value>View current readings</value>
 	</data>
-	<data name="APIARIES_CONTEXT_NEWAPIARY">
+	<data name="MELIPONÁRIO_CONTEXTO_NOVOMELIPONÁRIO">
 		<value>New Apiary</value>
 	</data>
-	<data name="APIARIES_CONTEXT_EDITAPIARY">
+	<data name="MELIPONÁRIO_CONTEXTO_EDITEMELIPONÁRIO">
 		<value>Edit Apiary</value>
 	</data>
-	<data name="APIARIES_CONTEXT_NEWHIVE">
+	<data name="MELIPONÁRIO_CONTEXTO_NOVACOLMÉIA">
 		<value>New Hive</value>
 	</data>
-	<data name="APIARIES_CONTEXT_NEWNOTE">
+	<data name="MELIPONÁRIO_CONTEXTO_NOVANOTA">
 		<value>New Note</value>
 	</data>
-	<data name="HIVE_CONTEXT_SYNC">
+	<data name="COLMEIA_CONTEXTO_SINCRONIZAR">
 		<value>Sync</value>
 	</data>
-	<data name="HIVE_CONTEXT_ADDDEVICE">
+	<data name="COLMEIA_CONTEXTO_ADICIONEEQUIPAMENTO">
 		<value>Add Device</value>
 	</data>
-	<data name="HIVE_CONTEXT_MOVEHIVE">
+	<data name="COLMÉIA_CONTEXTO_MOVIMENTECOLMEIA">
 		<value>Move Hive</value>
 	</data>
-	<data name="HIVE_CONTEXT_EDITHIVE">
+	<data name="COLMÉIA_CONTEXTO_EDITECOLMÉIA">
 		<value>Edit Hive</value>
 	</data>
-	<data name="HIVE_CONTEXT_OPEN">
+	<data name="COLMÉIA_CONTEXTO_ABERTO">
 		<value>Open in Browser</value>
 	</data>
-	<data name="HIVE_CONTEXT_CHART">
+	<data name="COLMÉIA_CONTEXTO_GRÁFICO">
 		<value>View Chart</value>
 	</data>
-	<data name="HIVE_CONTEXT_ADDNOTE">
+	<data name="COLMÉIA_CONTEXTO_ADICIONENOTA">
 		<value>Add Note</value>
 	</data>
-	<data name="HIVE_SH_CONTEXT_DETAILS">
+	<data name="COLMÉIA_SH_CONTEXTO_DETALHES">
 		<value>Show Details</value>
 	</data>
-	<data name="HIVE_SH_STATUS">
+	<data name="COLMÉIA_SH_SITUAÇÃO">
 		<value>Updating in</value>
 	</data>
-	<data name="HIVE_SH_STATUS_SLEEP">
+	<data name="COLMÉIA_SH_SITUAÇÃO_PAUSADO">
 		<value>Device in deep sleep.</value>
 	</data>
-	<data name="DEVICE_CONTEXT_SYNC">
+	<data name="EQUIPAMENTO_CONTEXTO_SINCRONIZAR">
 		<value>Sync</value>
 	</data>
-	<data name="DEVICE_CONTEXT_SYNCNEXT">
+	<data name="EQUIPAMENTO_CONTEXTO_SINCDRONIZARPRÓXIMO">
 		<value>Sync Next</value>
 	</data>
-	<data name="DEVICE_CONTEXT_REMOVESYNC">
+	<data name="EQUIPAMENTO_CONTEXTO_REMOVASINCRONIZAÇÃO">
 		<value>Remove Sync</value>
 	</data>
-	<data name="DEVICE_CONTEXT_CANCEL">
+	<data name="EQUIPAMENTO_CONTEXTO_CANCELAR">
 		<value>Cancel Sync</value>
 	</data>
-	<data name="DEVICE_CONTEXT_EDIT">
+	<data name="EQUIPAMENTO_CONTEXTO_EDITAR">
 		<value>Edit Device</value>
 	</data>
-	<data name="DEVICE_CONTEXT_MOVE">
+	<data name="EQUIPAMENTO_CONTEXTO_MOVER">
 		<value>Move Device</value>
 	</data>
-	<data name="DEVICE_CONTEXT_DETAILS">
+	<data name="EQUIPAMENTO_CONTEXTO_DETALHES">
 		<value>Show Details</value>
 	</data>
-	<data name="DEVICE_CONTEXT_EDITLOCATION">
+	<data name="EQUIPAMENTO_CONTEXTO_EDITARLOCALIZAÇÃO">
 		<value>Edit Current Location</value>
 	</data>
-	<data name="DEVICE_CONTEXT_DELETE">
+	<data name="EQUIPAMENTO_CONTEXT_DELETE">
 		<value>Delete Device</value>
 	</data>
 	<data name="DEVICE_CONTEXT_DELETE_MESSAGE">
